@@ -1,0 +1,17 @@
+HELP.md
+target/
+.factorypath
+
+# Eclipse
+.springBeans
+.metadata/
+.tmp/
+.gradle/
+build/
+bin/
+.settings/
+.project
+
+# External tooling
+.m2/
+.classpath
